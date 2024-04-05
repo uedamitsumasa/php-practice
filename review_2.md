@@ -88,4 +88,4 @@ echo $prev->diff($now)->format('%a')
 ①PHPの公式マニュアルにアクセスします。https://www.php.net/manual
 ②サイト内でDateTime::diff」を入力します。
 ③「DateTime::diff」のページに移動します。このページにはDateTime::diffメソッドの説明や使用例が含まれています。
-④ページ内の「Return Values」（返り値＝返り値）のセクションを探します。このセクションには、メソッドの返り値に関する情報が記載されています。
+④ページ内の「Return Values」（返り値＝返り値）のセクションを探します。このセクションには、メソッドの返り値に関する情報が記載されています!
